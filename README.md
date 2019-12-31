@@ -14,7 +14,7 @@ Versao 1.8
 <b>Requisitos</b>
 <ol>
  <li>.net 4.7+</li>
- <li>Windows 7, 10</li>
+ <li>Windows 10</li>
  <li>x86 ou x64</li>
 </ol>
 
