@@ -1,0 +1,9 @@
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\bin\Debug\CryptDeString.exe.config
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\bin\Debug\CryptDeString.exe
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\bin\Debug\CryptDeString.pdb
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.Properties.Resources.resources
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.csproj.GenerateResource.cache
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.exe
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.pdb
+C:\Users\usuario\source\repos\CryptDeString\CryptDeString\obj\Debug\CryptDeString.frmPrincipal.resources
